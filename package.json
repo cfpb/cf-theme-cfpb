@@ -1,6 +1,6 @@
 {
   "name": "cf-theme-cfpb",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Capital Framework theme for CFPB websites and applications.",
   "less": "src/theme.less",
   "scripts": {
